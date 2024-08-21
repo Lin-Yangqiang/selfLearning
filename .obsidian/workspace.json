@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.设计模式/创建型/单例模式.md",
+                "file": "1.设计模式/创建型模式/建造者模式.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.设计模式/创建型/单例模式.md",
+                "file": "1.设计模式/创建型模式/建造者模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.设计模式/创建型/单例模式.md",
+                "file": "1.设计模式/创建型模式/建造者模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.设计模式/创建型/单例模式.md"
+                "file": "1.设计模式/创建型模式/建造者模式.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "70374a029e76c127",
   "lastOpenFiles": [
-    "1.设计模式/创建型/单例模式.md",
-    "1.设计模式/创建型",
+    "1.设计模式/创建型模式/单例模式.md",
+    "1.设计模式/创建型模式/建造者模式.md",
+    "1.设计模式/行为模式",
+    "1.设计模式/结构型模式",
+    "1.设计模式/创建型模式",
     "1.设计模式",
     "0.编程语言"
   ]
