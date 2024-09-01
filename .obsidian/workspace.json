@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.编程语言/Python/Python pdb调试/pdb调试.md",
+                "file": "1.设计模式/行为型模式/策略模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.编程语言/Python/Python pdb调试/pdb调试.md",
+                "file": "1.设计模式/行为型模式/策略模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.编程语言/Python/Python pdb调试/pdb调试.md",
+                "file": "1.设计模式/行为型模式/策略模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.编程语言/Python/Python pdb调试/pdb调试.md"
+                "file": "1.设计模式/行为型模式/策略模式.md"
               }
             }
           }
@@ -148,18 +148,22 @@
   },
   "active": "70374a029e76c127",
   "lastOpenFiles": [
+    "1.设计模式/行为型模式/assets/策略模式的结构.png",
+    "1.设计模式/行为型模式/assets/image-20240902041032038.png",
+    "1.设计模式/行为型模式/assets",
+    "0.编程语言/Python/Python pdb调试/pdb调试.md",
+    "1.设计模式/行为型模式/策略模式.md",
     "0.编程语言/Python/Python pdb调试/assets/until命令执行到指定行.png",
     "0.编程语言/Python/Python pdb调试/assets/image-20240901203130752.png",
     "0.编程语言/Python/Python pdb调试/assets/pdb调试设置断点.png",
     "0.编程语言/Python/Python pdb调试/assets/image-20240901143707221.png",
     "0.编程语言/Python/Python pdb调试/assets",
     "1.设计模式/创建型模式/工厂模式.md",
-    "0.编程语言/Python/Python pdb调试/pdb调试.md",
     "0.编程语言/Python/Python pdb调试",
     "0.编程语言/Python",
     "1.设计模式/创建型模式/建造者模式.md",
     "1.设计模式/创建型模式/单例模式.md",
-    "1.设计模式/行为模式",
+    "1.设计模式/行为型模式",
     "1.设计模式/结构型模式",
     "1.设计模式/创建型模式",
     "1.设计模式",
