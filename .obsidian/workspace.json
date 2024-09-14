@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.设计模式/行为型模式/状态模式.md",
+                "file": "1.设计模式/结构型模式/适配器模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.设计模式/行为型模式/状态模式.md",
+                "file": "1.设计模式/结构型模式/适配器模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.设计模式/行为型模式/状态模式.md",
+                "file": "1.设计模式/结构型模式/适配器模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.设计模式/行为型模式/状态模式.md"
+                "file": "1.设计模式/结构型模式/适配器模式.md"
               }
             }
           }
@@ -148,19 +148,21 @@
   },
   "active": "70374a029e76c127",
   "lastOpenFiles": [
+    "1.设计模式/结构型模式/assets/2958440-20240904103913917-1772862244.png",
+    "1.设计模式/结构型模式/assets/2958440-20240904103858055-638619763.png",
+    "1.设计模式/结构型模式/assets/2958440-20240904103913917-1772862244-1726344158274-3.png",
+    "1.设计模式/结构型模式/assets/2958440-20240904103858055-638619763-1726344158274-2.png",
+    "1.设计模式/结构型模式/assets/2958440-20240904103831158-1678011644.png",
+    "1.设计模式/结构型模式/assets/2958440-20240904103831158-1678011644-1726344158274-1.png",
+    "1.设计模式/结构型模式/assets",
+    "1.设计模式/行为型模式/状态模式.md",
+    "1.设计模式/结构型模式/适配器模式.md",
     "1.设计模式/行为型模式/assets/状态模式示例的结构-播放器例子.png",
     "1.设计模式/行为型模式/assets/example.png",
     "1.设计模式/行为型模式/assets/example-1725315331245-7.png",
     "1.设计模式/行为型模式/assets/状态设计模式的结构.png",
     "1.设计模式/行为型模式/assets/structure-zh.png",
-    "1.设计模式/行为型模式/assets/structure-zh-1725314822147-4.png",
-    "1.设计模式/行为型模式/assets/文档将工作委派给一个状态对象.png",
-    "1.设计模式/行为型模式/assets/solution-zh.png",
-    "1.设计模式/行为型模式/assets/solution-zh-1725314339038-1.png",
     "1.设计模式/行为型模式/策略模式.md",
-    "1.设计模式/行为型模式/状态模式.md",
-    "1.设计模式/行为型模式/assets/策略模式的结构.png",
-    "1.设计模式/行为型模式/assets/image-20240902041032038.png",
     "1.设计模式/行为型模式/assets",
     "0.编程语言/Python/Python pdb调试/pdb调试.md",
     "0.编程语言/Python/Python pdb调试/assets",
