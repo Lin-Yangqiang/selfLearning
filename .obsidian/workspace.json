@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.设计模式/结构型模式/适配器模式.md",
+                "file": "0.编程语言/Java/Java基本特性/Optional的使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.设计模式/结构型模式/适配器模式.md",
+                "file": "0.编程语言/Java/Java基本特性/Optional的使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.设计模式/结构型模式/适配器模式.md",
+                "file": "0.编程语言/Java/Java基本特性/Optional的使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.设计模式/结构型模式/适配器模式.md"
+                "file": "0.编程语言/Java/Java基本特性/Optional的使用.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "70374a029e76c127",
   "lastOpenFiles": [
+    "1.设计模式/结构型模式/适配器模式.md",
+    "0.编程语言/Java/Java基本特性/Optional的使用.md",
+    "0.编程语言/Java/Java基本特性",
+    "0.编程语言/Java",
     "1.设计模式/结构型模式/assets/2958440-20240904103913917-1772862244.png",
     "1.设计模式/结构型模式/assets/2958440-20240904103858055-638619763.png",
     "1.设计模式/结构型模式/assets/2958440-20240904103913917-1772862244-1726344158274-3.png",
@@ -156,12 +160,10 @@
     "1.设计模式/结构型模式/assets/2958440-20240904103831158-1678011644-1726344158274-1.png",
     "1.设计模式/结构型模式/assets",
     "1.设计模式/行为型模式/状态模式.md",
-    "1.设计模式/结构型模式/适配器模式.md",
     "1.设计模式/行为型模式/assets/状态模式示例的结构-播放器例子.png",
     "1.设计模式/行为型模式/assets/example.png",
     "1.设计模式/行为型模式/assets/example-1725315331245-7.png",
     "1.设计模式/行为型模式/assets/状态设计模式的结构.png",
-    "1.设计模式/行为型模式/assets/structure-zh.png",
     "1.设计模式/行为型模式/策略模式.md",
     "1.设计模式/行为型模式/assets",
     "0.编程语言/Python/Python pdb调试/pdb调试.md",
@@ -173,8 +175,6 @@
     "1.设计模式/创建型模式/单例模式.md",
     "1.设计模式/行为型模式",
     "1.设计模式/结构型模式",
-    "1.设计模式/创建型模式",
-    "1.设计模式",
-    "0.编程语言"
+    "1.设计模式/创建型模式"
   ]
 }
