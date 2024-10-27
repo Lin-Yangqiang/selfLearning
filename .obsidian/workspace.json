@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.编程语言/Python/Python高级编程/python单元测试.md",
+                "file": "0.编程语言/Python/Python高级编程/pydantic的使用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python单元测试"
+              "title": "pydantic的使用"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.编程语言/Python/Python高级编程/python单元测试.md",
+                "file": "0.编程语言/Python/Python高级编程/pydantic的使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "python单元测试 的反向链接列表"
+              "title": "pydantic的使用 的反向链接列表"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.编程语言/Python/Python高级编程/python单元测试.md",
+                "file": "0.编程语言/Python/Python高级编程/pydantic的使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "python单元测试 的出链列表"
+              "title": "pydantic的使用 的出链列表"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.编程语言/Python/Python高级编程/python单元测试.md"
+                "file": "0.编程语言/Python/Python高级编程/pydantic的使用.md"
               },
               "icon": "lucide-list",
-              "title": "python单元测试 的大纲"
+              "title": "pydantic的使用 的大纲"
             }
           }
         ]
@@ -179,9 +179,9 @@
   },
   "active": "849c547732680a8c",
   "lastOpenFiles": [
-    "0.编程语言/Python/Python高级编程/装饰器开发.md",
     "0.编程语言/Python/Python高级编程/python单元测试.md",
     "0.编程语言/Python/Python高级编程/pydantic的使用.md",
+    "0.编程语言/Python/Python高级编程/装饰器开发.md",
     "0.编程语言/Python/Python高级编程",
     "0.编程语言/Java/Java基本特性/Optional的使用.md",
     "0.编程语言/Java/Java基本特性/Java Stream.md",
