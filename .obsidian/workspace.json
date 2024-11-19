@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Java函数式接口"
             }
+          },
+          {
+            "id": "233dd0f30b570b47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.编程框架/Java/SpringBoot/Redis的简单使用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redis的简单使用"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,8 +191,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "849c547732680a8c",
+  "active": "233dd0f30b570b47",
   "lastOpenFiles": [
+    "2.编程框架/Java/SpringBoot/assets/image-20221130193951036.png",
+    "2.编程框架/Java/SpringBoot/assets/image-20221130205351403.png",
+    "2.编程框架/Java/SpringBoot/assets/image-20210927143741458.png",
+    "2.编程框架/Java/SpringBoot/assets/image-20221130193532735.png",
+    "2.编程框架/Java/SpringBoot/assets/image-20221130193332666.png",
+    "2.编程框架/Java/SpringBoot/assets/image-20221130192310916.png",
+    "2.编程框架/Java/SpringBoot/assets/image-20221130193121969.png",
+    "2.编程框架/Java/SpringBoot/assets/image-20221130190150749.png",
+    "2.编程框架/Java/SpringBoot/assets/image-20221130173459174.png",
+    "2.编程框架/Java/SpringBoot/assets/image-20221130192210418.png",
+    "2.编程框架/Java/SpringBoot/assets/image-20221130182207020.png",
+    "2.编程框架/Java/SpringBoot/assets",
+    "2.编程框架/Java/SpringBoot/Redis的简单使用.md",
+    "2.编程框架/Java/SpringBoot",
+    "2.编程框架/Java",
+    "2.编程框架",
     "0.编程语言/Java/Java基本特性/Java函数式编程/Lambda表达式.md",
     "0.编程语言/Java/Java基本特性/Java函数式接口.md",
     "0.编程语言/Java/Java基本特性/Java函数式编程/函数式编程基础.md",
@@ -192,27 +222,13 @@
     "1.设计模式/结构型模式/适配器模式.md",
     "0.编程语言/Java/Java基本特性",
     "0.编程语言/Java",
-    "1.设计模式/结构型模式/assets/2958440-20240904103913917-1772862244.png",
-    "1.设计模式/结构型模式/assets/2958440-20240904103858055-638619763.png",
-    "1.设计模式/结构型模式/assets/2958440-20240904103913917-1772862244-1726344158274-3.png",
-    "1.设计模式/结构型模式/assets/2958440-20240904103858055-638619763-1726344158274-2.png",
-    "1.设计模式/结构型模式/assets/2958440-20240904103831158-1678011644.png",
-    "1.设计模式/结构型模式/assets/2958440-20240904103831158-1678011644-1726344158274-1.png",
     "1.设计模式/结构型模式/assets",
     "1.设计模式/行为型模式/状态模式.md",
-    "1.设计模式/行为型模式/assets/状态模式示例的结构-播放器例子.png",
-    "1.设计模式/行为型模式/assets/example.png",
-    "1.设计模式/行为型模式/assets/example-1725315331245-7.png",
-    "1.设计模式/行为型模式/assets/状态设计模式的结构.png",
     "1.设计模式/行为型模式/策略模式.md",
     "1.设计模式/行为型模式/assets",
     "0.编程语言/Python/Python pdb调试/pdb调试.md",
-    "0.编程语言/Python/Python pdb调试/assets",
     "1.设计模式/创建型模式/工厂模式.md",
-    "0.编程语言/Python/Python pdb调试",
-    "0.编程语言/Python",
     "1.设计模式/创建型模式/建造者模式.md",
-    "1.设计模式/创建型模式/单例模式.md",
-    "1.设计模式/行为型模式"
+    "1.设计模式/创建型模式/单例模式.md"
   ]
 }
