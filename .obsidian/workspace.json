@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.编程框架/Java/SpringBoot/HttpClient的简单使用.md",
+                "file": "2.编程框架/Java/SpringBoot/全局异常处理器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HttpClient的简单使用"
+              "title": "全局异常处理器"
             }
           }
         ],
@@ -193,6 +193,15 @@
   },
   "active": "233dd0f30b570b47",
   "lastOpenFiles": [
+    "2.编程框架/Java/SpringBoot/Jwt令牌简介.md",
+    "2.编程框架/Java/SpringBoot/全局异常处理器.md",
+    "2.编程框架/Java/SpringBoot/SpringBoot常用注解.md",
+    "2.编程框架/Java/SpringBoot/Swagger的简单使用.md",
+    "2.编程框架/Java/SpringBoot/assets/image-20221107173137506.png",
+    "2.编程框架/Java/SpringBoot/assets/image-20221107175649468.png",
+    "2.编程框架/Java/SpringBoot/assets/image-20221107173033632.png",
+    "2.编程框架/Java/SpringBoot/Redis的简单使用.md",
+    "2.编程框架/Java/SpringBoot/HttpClient的简单使用.md",
     "2.编程框架/Java/SpringBoot/assets/image-20221203201023925.png",
     "2.编程框架/Java/SpringBoot/assets/image-20221203195917572.png",
     "2.编程框架/Java/SpringBoot/assets/image-20221203194852825.png",
@@ -200,12 +209,6 @@
     "2.编程框架/Java/SpringBoot/assets/image-20221203185632934.png",
     "2.编程框架/Java/SpringBoot/assets/image-20221203185614509.png",
     "2.编程框架/Java/SpringBoot/assets/image-20221203185536013.png",
-    "2.编程框架/Java/SpringBoot/assets/image-20221203185003231.png",
-    "2.编程框架/Java/SpringBoot/assets/image-20221203185149985.png",
-    "2.编程框架/Java/SpringBoot/assets/image-20221203185557674.png",
-    "2.编程框架/Java/SpringBoot/Redis的简单使用.md",
-    "2.编程框架/Java/SpringBoot/HttpClient的简单使用.md",
-    "2.编程框架/Java/SpringBoot/assets/image-20221130193951036.png",
     "2.编程框架/Java/SpringBoot/assets",
     "2.编程框架/Java/SpringBoot",
     "2.编程框架/Java",
